@@ -1,0 +1,25 @@
+.homepage-about {
+    display: flex;
+    flex-direction: row;
+}
+.bio {
+    padding-right: 250px;
+    padding-left: 100px;
+    padding-top: 70px;
+    font-weight: bold;
+}
+
+img {
+    opacity: 0.5;
+}
+
+.yt-videos {
+    flex-direction: column;
+    justify-content: space-between;  
+    margin:80px;
+}
+
+
+/* .homepage-content {
+    margin-top: 100px
+} */

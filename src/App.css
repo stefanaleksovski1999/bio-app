@@ -1,0 +1,24 @@
+.App {
+  /* text-align: center; */
+  /* background-image: url('../public/paper.jpg'); */
+  background-color: #121418;
+}
+
+.all-content {
+  margin-top: 140px;
+}
+
+
+.App-header {
+  background-image: url('../public/paper.jpg');
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+

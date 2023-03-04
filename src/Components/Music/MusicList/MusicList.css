@@ -1,0 +1,50 @@
+.song {
+    background-color: #282c34;
+    color: #282c34;
+    border:solid 5px;
+    display: flex;
+    justify-content: start;
+    gap: 50px;
+    margin-left: 100px;
+    margin-right: 200px;
+    
+    
+}
+.audio-container {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+
+    
+}
+
+.song-name {
+    color: white;
+    margin-left: 40px;
+    width: 150px;
+}
+
+.song-src {
+    color: #282c34;
+    width: 800px;
+}
+
+audio::-webkit-media-controls-panel {
+    background-color: #282c34;
+    border-radius: 0%;
+}
+
+audio::-webkit-media-controls-play-button {
+    background-color: #cc933c;
+    border-radius: 50%;
+    gap: 10px;
+}
+
+audio::-webkit-media-controls-current-time-display {
+    color:rgb(192, 183, 183);
+}
+
+
+  audio::-webkit-media-controls-time-remaining-display {
+    color: rgb(192, 183, 183);
+}
