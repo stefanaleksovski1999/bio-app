@@ -25,7 +25,7 @@ const Homepage = () => {
 
 
                 <div>
-                    <img style={{"margin-right": "70px"}} src='slika-cipko.jpg' width="500px"/>
+                    <img alt="Not loading" style={{"margin-right": "70px"}} src='slika-cipko.jpg' width="500px"/>
                 </div>
             </section>
 

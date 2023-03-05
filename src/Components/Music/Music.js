@@ -2,7 +2,7 @@ import './Music.css';
 // import React, { useState } from 'react';
 // // var Spotify = require('../../spotify-web-api');
 import MusicList from './MusicList/MusicList';
-import ReactAudioPlayer from 'react-audio-player';
+// import ReactAudioPlayer from 'react-audio-player';
 
 
 const Music = () => {
